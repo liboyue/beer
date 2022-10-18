@@ -19,7 +19,8 @@ If you find this repo useful, please cite our paper
 @article{zhao2022beer,
   title={BEER: Fast O (1/T) Rate for Decentralized Nonconvex Optimization with Communication Compression},
   author={Zhao, Haoyu and Li, Boyue and Li, Zhize and Richt{\'a}rik, Peter and Chi, Yuejie},
-  journal={arXiv preprint arXiv:2201.13320},
+  journal={Advances in Neural Information Processing Systems},
+  volume = {35},
   year={2022}
 }
 ```
